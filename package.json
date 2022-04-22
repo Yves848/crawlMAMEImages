@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.2.3",
     "puppeteer": "^13.6.0"
   }
 }
